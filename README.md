@@ -1,0 +1,1 @@
+# A function to check a number palindrome or not.

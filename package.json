@@ -1,0 +1,11 @@
+{
+  "name": "check-palindrome",
+  "version": "1.0.0",
+  "description": "A program for checking a number if it is palindrome",
+  "main": "isPalindrome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aniksarkar",
+  "license": "ISC"
+}
